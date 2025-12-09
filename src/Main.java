@@ -34,7 +34,6 @@ public class Main {
         System.out.println("Desligando moto...");
         c1.desligar();
         System.out.println("A moto está ligada? " + mp1.isLigado());
-        System.out.println();
         }
 
     }
